@@ -1,7 +1,7 @@
 [project]
 name = "monitor"
 version = "0.1.0"
-description = "Add your description here"
+description = "Real-time GUI monitor for TSI APS Model 3321 A21 experiment files"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
